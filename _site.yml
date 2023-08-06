@@ -6,3 +6,7 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+output:
+  html_document:
+    css: site_style.css
+output_dir: "docs"
